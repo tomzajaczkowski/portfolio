@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw University of Technology. I've started to interest software testing for 6 months and then I began to build my technical background to be a professional software tester soon. During my curent job I have a lots of opportunities to find various bugs in software I working with. Please see below my examples. My goal is to be a proffesional automated software tester but I'm aware of path I have to follow and I don't want to miss being manual software tester on the beggining of my it career.
+My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw University of Technology. I've started to interest software testing for 6 months and then I began to build my technical background to be a professional software tester soon. During my curent job I have a lots of opportunities to find various bugs in software I working with. Please see below my examples. My goal is to be a proffesional automated software tester but I'm aware of path I have to follow and I don't want to miss being manual software tester on the beggining of my IT career. I like speaking English. I'm focused on pronounciation. I have regular meeting with native speaker. 
 
 ## Based on my experience so far
 
@@ -26,8 +26,8 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 * Coggle (mindmap)
 * Camtasia (screen recording and output)
 * Paint.net (screens and graphics manuals)
-* Notepad ++ (writing scripts, analyze logs, making notes)
-* MS Excel (basic level)
+* Notepad ++ (writing scripts, analyze logs, compare two documents, making notes)
+* MS Excel (basic functionality)
 
 ## Tech Stack
 
@@ -40,11 +40,22 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 ## Courses 
 
 * Szkoła Testerów - QA Courses
+* Podstawy manualnego testowania oprogramowania - testeroprogramowania.pl (Udemy)
+* Graham D. Foundations of Software Testing ISTQB Certif. 4ed 2020
 * SQL GeekOn Krystian Brożek
 
 ## Technical Books read
 
-* 
+* Zawód Tester - Radosław Smilgin
+* Praktyka testowania - Radosław Smilgin
+* Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp 
+* Testowanie i Jakość Oprogramowania Modele Techniki Narzędzia Wyd. 2 - Adam Roman
+* Czysty kod - Robert C. Martin
+* Aditya Bhargava - Algorytmy. Ilustrowany prewodnik
+* Ben Forta - SQL w mgnieniu oka. Opanuj język zapytań w 10 minut dziennie
+* Python dla każdego - Michael Dawson
+* Python. Instrukcje dla programisty. Wydanie II - Eric Matthes
+* Rusz głową! C# - Jennifer Greene, Andrew Stellman
 
 ## Groups for knowledge gathering
 
@@ -56,8 +67,10 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 
 ## Blogs read
 
+* [QA-Courses] (https://qa-courses.com/blog/)
 * [testerzy.pl](http://testerzy.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+
 
 ## My Test Documentation
 

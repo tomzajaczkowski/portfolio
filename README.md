@@ -46,16 +46,16 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 
 ## Technical Books read
 
-* Zawód Tester - Radosław Smilgin
-* Praktyka testowania - Radosław Smilgin
-* Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp 
-* Testowanie i Jakość Oprogramowania Modele Techniki Narzędzia Wyd. 2 - Adam Roman
-* Czysty kod - Robert C. Martin
+* R.Smilgin - Zawód Tester
+* R.Smilgin - Praktyka testowania
+* A.Roman, L.Stapp - Certyfikowany tester ISTQB. Poziom podstawowy 
+* A.Roman - Testowanie i Jakość Oprogramowania Modele Techniki Narzędzia Wyd.2
+* Robert C. Martin - Czysty kod
 * Aditya Bhargava - Algorytmy. Ilustrowany prewodnik
 * Ben Forta - SQL w mgnieniu oka. Opanuj język zapytań w 10 minut dziennie
-* Python dla każdego - Michael Dawson
-* Python. Instrukcje dla programisty. Wydanie II - Eric Matthes
-* Rusz głową! C# - Jennifer Greene, Andrew Stellman
+* Michael Dawson - Python dla każdego
+* Eric Matthes - Python. Instrukcje dla programisty. Wydanie II
+* Jennifer Greene, Andrew Stellman - Rusz głową! C#
 
 ## Groups for knowledge gathering
 
@@ -67,7 +67,7 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 
 ## Blogs read
 
-* [QA-Courses] (https://qa-courses.com/blog/)
+* [QA-Courses](https://qa-courses.com/blog/)
 * [testerzy.pl](http://testerzy.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 

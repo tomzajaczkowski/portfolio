@@ -81,7 +81,7 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 
 * Project mind map
 
-	*[Coggle](https://drive.google.com/file/d/1GwRaIax9Dp942ZjATuBaXFUCZqg5IRhY/view?usp=sharing)
+	* [Coggle](https://drive.google.com/file/d/1GwRaIax9Dp942ZjATuBaXFUCZqg5IRhY/view?usp=sharing)
 
 * My test cases:
 
@@ -107,7 +107,7 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 
 * My enhancement requests:
 
-[Redmine](https://drive.google.com/file/d/10zkYLU7B9BZh3l7Derr9lbOr76bseCGT/view?usp=sharing)
+	* [Redmine](https://drive.google.com/file/d/10zkYLU7B9BZh3l7Derr9lbOr76bseCGT/view?usp=sharing)
 
 
 
@@ -116,34 +116,31 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 * [Documentation test]() 
 
 
+**Desktop - Siemens NX CAM**
 
-
-
-
-
-* #Desktop - Siemens NX CAM
 * My bug reports:
-* [G2/G3 wrong output]() 
-* [Cannot open .sldprt files]() 
-* [Area mill extend edge crash]() 
-* [Both radial and concentric cut patterns are gone - ER request]()
-* [No "Wytwarzanie" tab]() 
+	* [G2/G3 wrong output]() 
+	* [Cannot open .sldprt files]() 
+	* [Area mill extend edge crash]() 
+	* [Both radial and concentric cut patterns are gone - ER request]()
+	* [No "Wytwarzanie" tab]() 
 
-* #Desktop - VoluMill add-on for Siemens NX CAM
+**Desktop - VoluMill add-on for Siemens NX CAM**
+
 * My bug reports:
-* [VoluMill operation lost feed and speed in columns]() 
-* [No departure move after dividing toolpath]() 
-* [VoluMill ignores Check Geometry and Boundary]() 
-* [VoluMill cannot divide toolpath properly]()
-* [Volumill does not follow the METHOD]()
-* [Volumill can't take over depth per cut properly.]()
-* [Can't create toolpath using Part Outline blank.]()
+	* [VoluMill operation lost feed and speed in columns]() 
+	* [No departure move after dividing toolpath]() 
+	* [VoluMill ignores Check Geometry and Boundary]() 
+	* [VoluMill cannot divide toolpath properly]()
+	* [Volumill does not follow the METHOD]()
+	* [Volumill can't take over depth per cut properly.]()
+	* [Can't create toolpath using Part Outline blank.]()
 
 
 ## My Projects
 
-* Siemens NX 2007 EVP & EAP Program
-* [Test Query](https://drive.google.com/file/d/1Imup_gA9IPK0VZONg6I1yaItA_sc-SsS/view?usp=sharing) 
-* [Reported bugs and enhancement requests]()
+* Siemens NX 2007 EVP & EAP Program (ended)
+	* [Test Query](https://drive.google.com/file/d/1Imup_gA9IPK0VZONg6I1yaItA_sc-SsS/view?usp=sharing) 
+	* [Reported bugs and enhancement requests]()
 
-* Siemens NX 2206 EVP & EAP Program
+* Siemens NX 2206 EVP & EAP Program (in progress)

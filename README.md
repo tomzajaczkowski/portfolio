@@ -2,7 +2,7 @@
 
 ## About me
 
-* My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw University of Technology. I've started to interest software testing for 6 months and then I began to build my technical background to be a professional software tester soon. During my curent job I have a lots of opportunities to find various bugs in software I working with. Please see below my examples. My goal is to be a proffesional automated software tester but I'm aware of path I have to follow and I don't want to miss being manual software tester prior. I like speaking English. I'm focused on pronounciation. I have regular meeting with native speaker. 
+My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw University of Technology. I've started to interest software testing for 6 months and then I began to build my technical background to be a professional software tester soon. During my curent job I have a lots of opportunities to find various bugs in software I working with. Please see below my examples. My goal is to be a proffesional automated software tester but I'm aware of path I have to follow and I don't want to miss being manual software tester prior. I like speaking English. I'm focused on pronounciation. I have regular meeting with native speaker. 
 
 ## Facts based on my experience so far
 

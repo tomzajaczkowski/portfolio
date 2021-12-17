@@ -119,6 +119,7 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 -------------------- **Desktop - Siemens NX CAM** --------------------
 
 * My bug reports:
+
 	* [G2/G3 wrong output]() 
 	* [Cannot open .sldprt files]() 
 	* [Area mill extend edge crash]() 
@@ -128,6 +129,7 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 -------------------- **Desktop - VoluMill add-on for Siemens NX CAM** --------------------
 
 * My bug reports:
+
 	* [VoluMill operation lost feed and speed in columns]() 
 	* [No departure move after dividing toolpath]() 
 	* [VoluMill ignores Check Geometry and Boundary]() 
@@ -140,7 +142,9 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 ## My Projects
 
 * Siemens NX 2007 EVP & EAP Program (ended)
+
 	* [Test Query](https://drive.google.com/file/d/1Imup_gA9IPK0VZONg6I1yaItA_sc-SsS/view?usp=sharing) 
+	
 	* [Reported bugs and enhancement requests]()
 
 * Siemens NX 2206 EVP & EAP Program (in progress)

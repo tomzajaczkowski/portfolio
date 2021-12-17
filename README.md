@@ -81,28 +81,28 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 
 * Project mind map
 
-[Coggle](https://drive.google.com/file/d/1GwRaIax9Dp942ZjATuBaXFUCZqg5IRhY/view?usp=sharing)
+	*[Coggle](https://drive.google.com/file/d/1GwRaIax9Dp942ZjATuBaXFUCZqg5IRhY/view?usp=sharing)
 
 * My test cases:
 
-[TestLink #1](https://drive.google.com/file/d/11y1GNnbC1uAK-0PoaPYEJSrOYYI5sMFi/view?usp=sharing)
-[TestLink #2](https://drive.google.com/file/d/1BxqcDdAHnY2riC8SBAQrafmq6ee7dxSk/view?usp=sharing)
-[TestLink #3](https://drive.google.com/file/d/1N2PUMWMiegyfPXEhkayDPceSD6SiDMS1/view?usp=sharing)
-[TestLink #4](https://drive.google.com/file/d/1N2PUMWMiegyfPXEhkayDPceSD6SiDMS1/view?usp=sharing)
-[TestLink #5](https://drive.google.com/file/d/1dOZPOB_1LAY2thSPMIHNrXIDL8wxTnlg/view?usp=sharing) 
+	*[TestLink #1](https://drive.google.com/file/d/11y1GNnbC1uAK-0PoaPYEJSrOYYI5sMFi/view?usp=sharing)
+	*[TestLink #2](https://drive.google.com/file/d/1BxqcDdAHnY2riC8SBAQrafmq6ee7dxSk/view?usp=sharing)
+	*[TestLink #3](https://drive.google.com/file/d/1N2PUMWMiegyfPXEhkayDPceSD6SiDMS1/view?usp=sharing)
+	*[TestLink #4](https://drive.google.com/file/d/1N2PUMWMiegyfPXEhkayDPceSD6SiDMS1/view?usp=sharing)
+	*[TestLink #5](https://drive.google.com/file/d/1dOZPOB_1LAY2thSPMIHNrXIDL8wxTnlg/view?usp=sharing) 
  
 
 * My bug reports:
 
-[Jira #1](https://drive.google.com/file/d/14IOfYozbY3gQC1WtYj__k4bG2CoSPa6V/view?usp=sharing)
-[Jira #2](https://drive.google.com/file/d/1-dL32Dv6BDamlBR07SVLu6rV0jMBylLg/view?usp=sharing)
-[Redmine #1](https://drive.google.com/file/d/1TA4lBxM-yOHrtf7x5wHCCmdvw2gkyjWU/view?usp=sharing)
-[Redmine #2](https://drive.google.com/file/d/1DRwMjqZ90UwIPwf-kbMX3Ea0V-pzOx4I/view?usp=sharing)
-[Redmine #3](https://drive.google.com/file/d/1ngKiMoHSP05vo6ubREhvabj9X-TMd7UB/view?usp=sharing)
-[Mantis #1](https://drive.google.com/file/d/1A2yCriZVfvW9K8WSAo8k_OvQXNKgl_2o/view?usp=sharing)
-[Mantis #2](https://drive.google.com/file/d/1GbDMzUBDvJg4GwEtUUGDqoeVyIc1sdgz/view?usp=sharing)
-[Mantis #3](https://drive.google.com/file/d/1tzdNaVlzhuClaFbfLpaZC2jyFuJD-Fi1/view?usp=sharing)
-[Bugzilla](https://drive.google.com/file/d/15bcJ7tc9uVfZngOZPj0_8dwCyoOrT_8p/view?usp=sharing)
+	*[Jira #1](https://drive.google.com/file/d/14IOfYozbY3gQC1WtYj__k4bG2CoSPa6V/view?usp=sharing)
+	*[Jira #2](https://drive.google.com/file/d/1-dL32Dv6BDamlBR07SVLu6rV0jMBylLg/view?usp=sharing)
+	*[Redmine #1](https://drive.google.com/file/d/1TA4lBxM-yOHrtf7x5wHCCmdvw2gkyjWU/view?usp=sharing)
+	*[Redmine #2](https://drive.google.com/file/d/1DRwMjqZ90UwIPwf-kbMX3Ea0V-pzOx4I/view?usp=sharing)
+	*[Redmine #3](https://drive.google.com/file/d/1ngKiMoHSP05vo6ubREhvabj9X-TMd7UB/view?usp=sharing)
+	*[Mantis #1](https://drive.google.com/file/d/1A2yCriZVfvW9K8WSAo8k_OvQXNKgl_2o/view?usp=sharing)
+	*[Mantis #2](https://drive.google.com/file/d/1GbDMzUBDvJg4GwEtUUGDqoeVyIc1sdgz/view?usp=sharing)
+	*[Mantis #3](https://drive.google.com/file/d/1tzdNaVlzhuClaFbfLpaZC2jyFuJD-Fi1/view?usp=sharing)
+	*[Bugzilla](https://drive.google.com/file/d/15bcJ7tc9uVfZngOZPj0_8dwCyoOrT_8p/view?usp=sharing)
 
 
 * My enhancement requests:

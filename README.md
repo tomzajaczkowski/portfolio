@@ -77,7 +77,7 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 
 ## My Test Documentation
 
-**Web - dlapilota.pl**
+--------------------**Web - dlapilota.pl**
 
 * Project mind map
 
@@ -111,12 +111,12 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 
 
 
-**Web - https://nxcam-postprocessors.com/**
+--------------------**Web - https://nxcam-postprocessors.com/**
 
 * [Documentation test]() 
 
 
-**Desktop - Siemens NX CAM**
+--------------------**Desktop - Siemens NX CAM**
 
 * My bug reports:
 	* [G2/G3 wrong output]() 
@@ -125,7 +125,7 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 	* [Both radial and concentric cut patterns are gone - ER request]()
 	* [No "Wytwarzanie" tab]() 
 
-**Desktop - VoluMill add-on for Siemens NX CAM**
+--------------------**Desktop - VoluMill add-on for Siemens NX CAM**
 
 * My bug reports:
 	* [VoluMill operation lost feed and speed in columns]() 

@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw University of Technology. I've started to interest software testing for 6 months and then I began to build my technical background to be a professional software tester soon. During my curent job I have a lots of opportunities to find various bugs in software I working with. Please see below my examples. My goal is to be a proffesional automated software tester but I'm aware of path I have to follow and I don't want to miss being manual software tester prior. I like speaking English. I'm focused on pronounciation. I have regular meeting with native speaker. 
+My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw University of Technology. I've started to interest software testing for 6 months and then I began to build my technical background to be a professional software tester soon. During my current job I have a lots of opportunities to find various bugs in software I working with. Please see below my examples. My goal is to be a proffesional automated software tester but I'm aware of path I have to follow and I don't want to miss being manual software tester prior. I like speaking English. I'm focused on pronounciation. I have regular meeting with native speaker. 
 
 ## Facts based on my experience so far
 
@@ -83,16 +83,16 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 
 	* [Coggle](https://drive.google.com/file/d/1GwRaIax9Dp942ZjATuBaXFUCZqg5IRhY/view?usp=sharing)
 
-* My test cases:
+* Test cases:
 
 	* [TestLink #1](https://drive.google.com/file/d/11y1GNnbC1uAK-0PoaPYEJSrOYYI5sMFi/view?usp=sharing)
 	* [TestLink #2](https://drive.google.com/file/d/1BxqcDdAHnY2riC8SBAQrafmq6ee7dxSk/view?usp=sharing)
 	* [TestLink #3](https://drive.google.com/file/d/1N2PUMWMiegyfPXEhkayDPceSD6SiDMS1/view?usp=sharing)
-	* [TestLink #4](https://drive.google.com/file/d/1N2PUMWMiegyfPXEhkayDPceSD6SiDMS1/view?usp=sharing)
+	* [TestLink #4](https://drive.google.com/file/d/1WN6_sKJow0tjVcSXEGW8tagOngpbIosJ/view?usp=sharing)
 	* [TestLink #5](https://drive.google.com/file/d/1dOZPOB_1LAY2thSPMIHNrXIDL8wxTnlg/view?usp=sharing) 
  
 
-* My bug reports:
+* Bug reports:
 
 	* [Jira #1](https://drive.google.com/file/d/14IOfYozbY3gQC1WtYj__k4bG2CoSPa6V/view?usp=sharing)
 	* [Jira #2](https://drive.google.com/file/d/1-dL32Dv6BDamlBR07SVLu6rV0jMBylLg/view?usp=sharing)
@@ -105,18 +105,21 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 	* [Bugzilla](https://drive.google.com/file/d/15bcJ7tc9uVfZngOZPj0_8dwCyoOrT_8p/view?usp=sharing)
 
 
-* My enhancement requests:
+* Enhancement requests:
 
 	* [Redmine](https://drive.google.com/file/d/10zkYLU7B9BZh3l7Derr9lbOr76bseCGT/view?usp=sharing)
 
 
+* Exploratory test report:
+
+	* [Report#1](https://drive.google.com/file/d/1aPlVVbfNCeSYKfNgkstehAjlmSWvDFFj/view?usp=sharing)
 
 -------------------- **Web - https://nxcam-postprocessors.com/** --------------------
 
 * [Documentation test](https://drive.google.com/file/d/187c4x7XUbgrN3T68XUIUqcyfG_Usz-ol/view?usp=sharing) 
 
 
--------------------- **Desktop - Siemens NX CAM** --------------------
+-------------------- **Desktop - Siemens NX CAM** (draft) --------------------
 
 * My bug reports:
 
@@ -126,7 +129,7 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 	* [Both radial and concentric cut patterns are gone - ER request]()
 	* [No "Wytwarzanie" tab]() 
 
--------------------- **Desktop - VoluMill add-on for Siemens NX CAM** --------------------
+-------------------- **Desktop - VoluMill add-on for Siemens NX CAM** (draft) --------------------
 
 * My bug reports:
 

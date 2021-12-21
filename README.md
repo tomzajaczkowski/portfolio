@@ -129,17 +129,15 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 	* [Both radial and concentric cut patterns are gone - ER request]()
 	* [No "Wytwarzanie" tab]() 
 
--------------------- **Desktop - VoluMill add-on for Siemens NX CAM** (draft) --------------------
+-------------------- **Desktop - VoluMill add-on for Siemens NX CAM** --------------------
 
 * My bug reports:
 
-	* [VoluMill operation lost feed and speed in columns]() 
-	* [No departure move after dividing toolpath]() 
-	* [VoluMill ignores Check Geometry and Boundary]() 
-	* [VoluMill cannot divide toolpath properly]()
-	* [Volumill does not follow the METHOD]()
-	* [Volumill can't take over depth per cut properly.]()
-	* [Can't create toolpath using Part Outline blank.]()
+	* [Multiple feeds and speeds values in different places](https://drive.google.com/file/d/1KNIfVTx-GuP2QoGTNAQDtf52xwxpZqZu/view?usp=sharing) 
+	* [No retract move after divided toolpath](https://drive.google.com/file/d/1yBXoJhBH9WSfCXusWFN8RFa0sWD3hlpI/view?usp=sharing) 
+	* [Wrong operations time after toolpath divide](https://drive.google.com/file/d/14EX4IzphjyF54YaMaCw7Ycq8bgPU3ZqD/view?usp=sharing)
+	* [Method type used in operation is ignored](https://drive.google.com/file/d/1wDgGkOXW22TEZlPS8wwW0xueJTQ0pHNJ/view?usp=sharing)
+	* [No toolpath using Part Outline as Workpiece](https://drive.google.com/file/d/1JClUYGocfuvHgGrXfHEvcOpaOB2qk983/view?usp=sharing)
 
 
 ## My Projects

@@ -42,7 +42,7 @@ My name is Tomasz Zajączkowski. I graduated Mechanical Engineering at Wroclaw U
 
 ## Courses 
 
-* Szkoła Testerów - QA Courses Certificate no.
+* Szkoła Testerów - QA Courses Certificate no. ST-030-001 [Certificate](https://drive.google.com/file/d/1gcMJQzEjVIr59q7jdutoRy_gukQl6Wrv/view?usp=sharing)
 * Podstawy IT - [Certificate](https://drive.google.com/file/d/15Yn7VmupgHjdIZ9lxvbaynO00pOn-TP_/view?usp=sharing)
 * Tester Oprogramowania - [Certificate](https://drive.google.com/file/d/1sXnCd4NmOAVvxwTij6YOa52BCyLwAsiQ/view?usp=sharing)
 * Podstawy manualnego testowania oprogramowania (Udemy) - [Certificate](https://drive.google.com/file/d/1GbH7--tTbsQtg1eviS5sfCpUiM9ojXA9/view?usp=sharing)

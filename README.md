@@ -119,15 +119,19 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 * [Documentation test](https://drive.google.com/file/d/187c4x7XUbgrN3T68XUIUqcyfG_Usz-ol/view?usp=sharing) 
 
 
--------------------- **Desktop - Siemens NX CAM** (draft) --------------------
+-------------------- **Desktop - Siemens NX CAM** --------------------
 
-* My bug reports:
+* Bug reports:
 
-	* [G2/G3 wrong output]() 
-	* [Cannot open .sldprt files]() 
-	* [Area mill extend edge crash]() 
-	* [Both radial and concentric cut patterns are gone - ER request]()
-	* [No "Wytwarzanie" tab]() 
+	* [No "Wytwarzanie" tab using Polish UI](https://drive.google.com/file/d/1e-NTSzF-pXoiCIlyPGpswJQ3VypIdO_s/view?usp=sharing)
+	* [Wrong G2 output in Zlevel operation](https://drive.google.com/file/d/1o5_Iw80sTfTUWG29ATMrf2B4GuhXIWh-/view?usp=sharing) 
+	* [Cannot open .sldprt file](https://drive.google.com/file/d/1-8zpphBufcg8I0xJmW0MCo5FtLPuMVg1/view?usp=sharing) 
+	* [Extend on edges causes part gouge in Area_Mill operation](https://drive.google.com/file/d/1cdQEL74LSc9xlANwTbSd3ySP3b3bG3w3/view?usp=sharing) 
+	
+
+* Enhancement requests:
+
+	* [No radial and concentric cut patterns in latest release](https://drive.google.com/file/d/1TWNIQD759bDOWxx0jItyExCQzRGNDOMT/view?usp=sharing)
 
 -------------------- **Desktop - VoluMill add-on for Siemens NX CAM** --------------------
 
@@ -144,8 +148,6 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 
 * Siemens NX 2007 EVP & EAP Program (ended)
 
-	* [Test Query](https://drive.google.com/file/d/1Imup_gA9IPK0VZONg6I1yaItA_sc-SsS/view?usp=sharing) 
+	* [Test Query](https://drive.google.com/file/d/1FhKgBZ0w5W1-Fkv7f99MkkR5EK4pBpOM/view?usp=sharing) 
 	
-	* [Reported bugs and enhancement requests]()
-
 * Siemens NX 2206 EVP & EAP Program (in progress)

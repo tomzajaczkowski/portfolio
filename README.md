@@ -34,11 +34,15 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 
 ## Tech Stack
 
-* ISTQB: Foundation Level knowledge
-* Databases: MySQL
-* Languages: TCL, Python (basics)
-* Version Control Systems: Git
-* Other tools: 
+* ISTQB Foundation Level knowledge
+* Functional testing
+* Exploratory testing (CAM software)
+* Acceptance testing - Alpha Testing (CAM software)
+* Creating both Test Cases and Bug Reports
+* SQL
+* Languages: TCL, Python (very basic, in progress)
+* HTML
+* Version Control Systems: Git 
 
 ## Courses 
 

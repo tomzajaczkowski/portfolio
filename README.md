@@ -81,7 +81,7 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 
 ## My Test Documentation
 
----------------------------------------- **Web - https://www.dlapilota.pl** --------------------
+---------------------------------------- **Web - https://www.dlapilota.pl** -----------------------------
 
 * Project mind map
 
@@ -123,7 +123,7 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 * [Documentation test](https://drive.google.com/file/d/187c4x7XUbgrN3T68XUIUqcyfG_Usz-ol/view?usp=sharing) 
 
 
----------------------------------------- **Desktop - Siemens NX CAM** --------------------
+---------------------------------------- **Desktop - Siemens NX CAM** -----------------------------------
 
 * Bug reports:
 
@@ -137,7 +137,7 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 
 	* [No radial and concentric cut patterns in latest release](https://drive.google.com/file/d/1TWNIQD759bDOWxx0jItyExCQzRGNDOMT/view?usp=sharing)
 
----------------------------------------- **Desktop - VoluMill add-on for Siemens NX CAM** --------------------
+---------------------------------------- **Desktop - VoluMill add-on for Siemens NX CAM** ---------------
 
 * My bug reports:
 

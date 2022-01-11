@@ -123,7 +123,7 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 * [Documentation test](https://drive.google.com/file/d/187c4x7XUbgrN3T68XUIUqcyfG_Usz-ol/view?usp=sharing) 
 
 
----------------------------------------- **Desktop - Siemens NX CAM** -----------------------------------
+------------------------------------------------ **Desktop - Siemens NX CAM** ---------------------------
 
 * Bug reports:
 

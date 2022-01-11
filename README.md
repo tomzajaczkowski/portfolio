@@ -41,7 +41,7 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 * Creating both Test Cases and Bug Reports
 * SQL
 * Languages: TCL, Python (very basic, in progress)
-* HTML
+* HTML/CSS
 * Version Control Systems: Git 
 
 ## Courses 

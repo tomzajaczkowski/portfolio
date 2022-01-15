@@ -36,17 +36,20 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 
 * ISTQB Foundation Level knowledge
 * Functional testing
-* Exploratory testing (CAM software)
-* Acceptance testing - Alpha Testing (CAM software)
+* Exploratory testing
+* Acceptance testing - Alpha Testing
 * Creating both Test Cases and Bug Reports
 * SQL
-* Languages: TCL, Python (very basic, in progress)
+* Languages: TCL, Python (the very beginning of learning)
 * HTML/CSS
 * Version Control Systems: Git 
 
 ## Courses 
 
 * Szkoła Testerów - QA Courses Certificate no. ST-030-001 [Certificate](https://drive.google.com/file/d/1gcMJQzEjVIr59q7jdutoRy_gukQl6Wrv/view?usp=sharing)
+* The Complete SQL Bootcamp 2022 - Jose Portilla (Udemy)
+* Kurs Gita – devstyle.pl – Maciej Aniserowicz
+* Understanding Jira for users, managers and admins - Dan LeFebvre (Udemy)
 * Podstawy IT - [Certificate](https://drive.google.com/file/d/15Yn7VmupgHjdIZ9lxvbaynO00pOn-TP_/view?usp=sharing)
 * Tester Oprogramowania - [Certificate](https://drive.google.com/file/d/1sXnCd4NmOAVvxwTij6YOa52BCyLwAsiQ/view?usp=sharing)
 * Podstawy manualnego testowania oprogramowania (Udemy) - [Certificate](https://drive.google.com/file/d/1GbH7--tTbsQtg1eviS5sfCpUiM9ojXA9/view?usp=sharing)
@@ -77,11 +80,12 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 * [QA-Courses](https://qa-courses.com/blog/)
 * [testerzy.pl](http://testerzy.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+* [Wyszkolewas Waldemar Szafraniec](https://www.wyszkolewas.com.pl/blog/)
 
 
 ## My Test Documentation
 
----------------------------------------- **Web - https://www.dlapilota.pl** -----------------------------
+-------------------- **Web - https://www.dlapilota.pl** --------------------
 
 * Project mind map
 
@@ -118,12 +122,12 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 
 	* [Report#1](https://drive.google.com/file/d/1aPlVVbfNCeSYKfNgkstehAjlmSWvDFFj/view?usp=sharing)
 
----------------------------------------- **Web - https://nxcam-postprocessors.com/** --------------------
+-------------------- **Web - https://nxcam-postprocessors.com/** --------------------
 
 * [Documentation test](https://drive.google.com/file/d/187c4x7XUbgrN3T68XUIUqcyfG_Usz-ol/view?usp=sharing) 
 
 
------------------------------------------------- **Desktop - Siemens NX CAM** ---------------------------
+-------------------- **Desktop - Siemens NX CAM** --------------------
 
 * Bug reports:
 
@@ -137,7 +141,7 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 
 	* [No radial and concentric cut patterns in latest release](https://drive.google.com/file/d/1TWNIQD759bDOWxx0jItyExCQzRGNDOMT/view?usp=sharing)
 
----------------------------------------- **Desktop - VoluMill add-on for Siemens NX CAM** ---------------
+-------------------- **Desktop - VoluMill add-on for Siemens NX CAM** --------------------
 
 * My bug reports:
 
@@ -150,8 +154,10 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 
 ## My Projects
 
-* Siemens NX 2007 EVP & EAP Program (ended)
+* Siemens NX 2007 EVP & EAP Program (done)
 
 	* [Test Query](https://drive.google.com/file/d/1FhKgBZ0w5W1-Fkv7f99MkkR5EK4pBpOM/view?usp=sharing) 
 	
 * Siemens NX 2206 EVP & EAP Program (in progress)
+
+* uTest (in progress)

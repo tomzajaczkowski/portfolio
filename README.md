@@ -30,7 +30,7 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 * Camtasia (screen recording and output)
 * Paint.net (screens and graphics manuals)
 * Notepad ++ (writing scripts, analyze logs, compare two documents, making notes)
-* MS Excel (basic functionality)
+
 
 ## Tech Stack
 

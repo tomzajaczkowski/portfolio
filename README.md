@@ -23,9 +23,9 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 * JIRA
 * Confluence
 * TestLink
-* TestRail
-* Mantis
 * Redmine
+* DevTools
+* Git
 * Coggle (mindmap)
 * Camtasia (screen recording and output)
 * Paint.net (screens and graphics manuals)

@@ -2,12 +2,12 @@
 
 ## About me
 
-My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the Wroclaw University of Technology. I've started to have interest in  software testing for 6 months. I began to build my technical background to be a professional software tester soon. During my current job, I have a lots of opportunities to find various bugs in the software I work with. Please see my examples below. My goal is to be a professional automated software tester, but I'm aware of the path I have to follow and I don't want to miss the opportunity to became a manual software tester. I like to speak English. I'm focused on pronounciation and I have regular meetings with a native speaker from the USA. 
+My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the Wroclaw University of Technology. I've started to have interest in  software testing for 7 months. I began to build my technical background to be a professional software tester soon. During my current job, I have a lots of opportunities to find various bugs in the software I work with. Please see my examples below. My goal is to be a professional automated software tester, but I'm aware of the path I have to follow and I don't want to miss the opportunity to became a manual software tester. I like to speak English. I'm focused on pronounciation and I have regular meetings with a native speaker from the USA. 
 
 ## Facts based on my experience so far
 
 * I have experience working with advanced Siemens PLM software engineering systems.  
-* I've provided about 72 training courses for the customers who are the end users of software. We implement these individuals into the market. Typical training sessions take 3 days for implementation for approximately 4 people. To sum up, it's about 200 end users participating in my courses. During these training sessions there were always some complains about the software which I had to deal with. That kind of situation trained me well to be a communicative person. I was often confronted by the users, but everytime I defended my opinion successfuly.
+* I've provided about 73 training courses for the customers who are the end users of software. We implement these individuals into the market. Typical training sessions take 3 days for implementation for approximately 4 people. To sum up, it's about 292 end users participating in my courses. During these training sessions there were always some complains about the software which I had to deal with. That kind of situation trained me well to be a communicative person. I was often confronted by the users, but everytime I defended my opinion successfuly.
 *  As helpdesk support engineer, I had to make steps to reproduce the issue reported by the end users. Usually, I found another issue during the making of these steps on my own. My task was to report the issue to global support. This includes both video and screen documentation. There were plenty of times that I got a generic answer such as, "working as designed" or "cannot reproduce the issue". My goal was to convince global support engineers that the problem really exists. I had a chance to report IR (incident reports), PR (problem reports) and even ER (enhancement requests).
 * I have provided about 32 presales presentations of our products that lead our Sales Representatives to make a deal with the prospective customers. Three of them were provided English translations for foreign customers. 
 * I was also responsible for preparing the postprocessors for CAM software. For making the postprocessors we use TCL. This is a simple and compiled scripting language. I find it interesting and I want to work on my programming skills to be a automated tester in the future. 
@@ -17,7 +17,7 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 
 
 
-## Tools used in testing
+## Tools
 
 
 * JIRA
@@ -39,22 +39,22 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 * Exploratory testing
 * Acceptance testing - Alpha Testing
 * Creating both Test Cases and Bug Reports
-* SQL
-* Languages: TCL, Python (the very beginning of learning)
+* Basic SQL
+* Languages: TCL, Python (just started self-learning)
 * HTML/CSS
 * Version Control Systems: Git 
 
-## Courses 
+## Trainings and courses 
 
 * Szkoła Testerów - QA Courses Certificate no. ST-030-001 [Certificate](https://drive.google.com/file/d/1gcMJQzEjVIr59q7jdutoRy_gukQl6Wrv/view?usp=sharing)
-* The Complete SQL Bootcamp 2022 - Jose Portilla (Udemy)
 * Kurs Gita – devstyle.pl – Maciej Aniserowicz
 * Understanding Jira for users, managers and admins - Dan LeFebvre (Udemy)
 * Podstawy IT - [Certificate](https://drive.google.com/file/d/15Yn7VmupgHjdIZ9lxvbaynO00pOn-TP_/view?usp=sharing)
 * Tester Oprogramowania - [Certificate](https://drive.google.com/file/d/1sXnCd4NmOAVvxwTij6YOa52BCyLwAsiQ/view?usp=sharing)
 * Podstawy manualnego testowania oprogramowania (Udemy) - [Certificate](https://drive.google.com/file/d/1GbH7--tTbsQtg1eviS5sfCpUiM9ojXA9/view?usp=sharing)
+* Learning Chrome Web Developer Tools (LinkedIn Learning) - [Certificate](https://drive.google.com/file/d/1S3BSCLfYA1eCs-EJ5gZWVmBlqdSP_Myu/view?usp=sharing)
 
-## Technical Books read or to be read
+## My personal library
 
 * R.Smilgin - Zawód Tester
 * R.Smilgin - Praktyka testowania
@@ -63,6 +63,7 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 * Robert C. Martin - Czysty kod
 * Aditya Bhargava - Algorytmy. Ilustrowany prewodnik
 * Ben Forta - SQL w mgnieniu oka. Opanuj język zapytań w 10 minut dziennie
+* Lynn Beighley - Rusz głową! SQL
 * Michael Dawson - Python dla każdego
 * Eric Matthes - Python. Instrukcje dla programisty. Wydanie II
 * Jennifer Greene, Andrew Stellman - Rusz głową! C#
@@ -141,7 +142,7 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 
 	* [No radial and concentric cut patterns in latest release](https://drive.google.com/file/d/1TWNIQD759bDOWxx0jItyExCQzRGNDOMT/view?usp=sharing)
 
--------------------- **Desktop - VoluMill add-on for Siemens NX CAM** --------------------
+-------------------- **Desktop - VoluMill an add-on for Siemens NX CAM** --------------------
 
 * My bug reports:
 
@@ -161,3 +162,5 @@ My name is Tomasz Zajączkowski. I graduated in Mechanical Engineering from the 
 * Siemens NX 2206 EVP & EAP Program (in progress)
 
 * uTest (in progress)
+
+* https://www.tomaszzajaczkowski.pl (in progress)
